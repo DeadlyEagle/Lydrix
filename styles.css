@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a; /* Koyu arka plan */
+    color: #fff; /* Beyaz metin rengi */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #333; /* Koyu arka plan */
+    border: 2px solid #ff5252; /* Turuncu kenarlık */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Hafif gölgelendirme */
+}
+
+h1 {
+    color: #ff5252; /* Turuncu başlık rengi */
+}
+
+h2 {
+    color: #ff5252; /* Turuncu başlık rengi */
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ol {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #ff5252; /* Turuncu link rengi */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
